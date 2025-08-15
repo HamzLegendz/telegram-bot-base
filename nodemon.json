@@ -1,0 +1,5 @@
+{
+  "delay": 1500,
+  "watch": ["commands", "bot.js"],
+  "ext": ["js"]
+}
